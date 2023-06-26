@@ -38,6 +38,6 @@ I've recently completed \[Juno College of Technology's\](https://junocollege.com
 
 ### Badges
 <b>My GitHub Stats</b>
-<a href="http://www.github.com/nobrayn"><img src="https://github-readme-activity-graph.vercel.app/api?username=nobrayn&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=10b981&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nobrayn's GitHub stats" /></a>
+<a href="http://www.github.com/nobrayn"><img src="https://github-readme-stats.vercel.app/api?username=nobrayn&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=10b981&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nobrayn's GitHub stats" /></a>
 <a href="http://www.github.com/nobrayn"><img src="https://github-readme-activity-graph.vercel.app/graph?username=nobrayn&bg_color=1c1917&color=10b981&line=0891b2&point=10b981&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <a href="https://github.com/nobrayn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nobrayn&langs_count=10&title_color=f97316&text_color=10b981&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
