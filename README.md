@@ -12,7 +12,7 @@ I've recently completed \[Juno College of Technology's\](https://junocollege.com
 *   🧠  I'm continuing to learn JavaScript, React and WordPress for now!
 
 ### Skills
-<div>
+<div style="display: flex; justify-content: space-between; width: 50%; background-color: #1c1917;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>&nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>&nbsp;
@@ -25,10 +25,10 @@ I've recently completed \[Juno College of Technology's\](https://junocollege.com
 
 
 ### Socials
-<div style="display: flex; justify-content: space-between; width: 50%;">
-<a href="https://www.codepen.io/chrisobray" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" style="filter: invert(50%);" /></a>&nbsp;
-<a href="https://www.dev.to/nobrayn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" style="filter: invert(50%);" /></a>&nbsp;
-<a href="https://www.github.com/nobrayn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="filter: invert(50%);" /></a>&nbsp;
+<div style="display: flex; justify-content: space-between; width: 50%; background-color: #1c1917;">
+<a href="https://www.codepen.io/chrisobray" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a>&nbsp;
+<a href="https://www.dev.to/nobrayn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a>&nbsp;
+<a href="https://www.github.com/nobrayn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>&nbsp;
 <a href="http://www.instagram.com/nobrayn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/nobrayn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>&nbsp;
 <a href="https://www.twitter.com/ChrisOBray" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>&nbsp;
