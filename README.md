@@ -4,7 +4,7 @@ Hi 👋 My name is Chris O'Bray
 I'm a front end web developer (true story)
 ------------------------------------------
 
-I've recently completed \[Juno College of Technology's\](https://junocollege.com/) 12-week Web Development bootcamp, where I got all sorts of HTML, CSS, JS, React, Firebase and API knowledge slammed into my brain. Please poke around my repositories to see what I've been up to!
+I've recently completed [Juno College of Technology's](https://junocollege.com/) 12-week Web Development bootcamp, where I got all sorts of HTML, CSS, JS, React, Firebase and API knowledge slammed into my brain. Please poke around my repositories to see what I've been up to!
 
 *   🌍  I'm based in Toronto, ON
 *   🖥️  See my portfolio at [nobrayn.com](http://www.nobrayn.com)
